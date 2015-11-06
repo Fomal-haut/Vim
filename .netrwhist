@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/zhufeng/Program_Files/hadoop-lzo/build'
+let g:netrw_dirhist_2='/Users/zhufeng/.vim'
+let g:netrw_dirhist_3='/Users/zhufeng/Library/Application Support'
+let g:netrw_dirhist_4='/Users/zhufeng/.vim'
